@@ -27,3 +27,7 @@ git add .
 git commit -m 'update'
 git push
 ```
+## 查看设备状态，为设备添加新的服务
+```shell
+http://10.2.20.113:8086/a5c7c1cb59
+```
